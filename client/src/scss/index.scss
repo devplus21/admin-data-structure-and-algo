@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+@import './variables';
+@import './base';
+@import './components/header';
+@import './components/button';
+@import './components/post-card';
+@import './components/menu';
+@import './components/search';
+@import './components/post-detail';
+@import './components/list';
+@import './components/modify-post';
+@import './components/login';
+@import './components/admin';
+@import './components/manage-category';
+@import './components/manage-subject';
+@import './components/modal';
+@import './components/managa-post';
+
+// For hightlighting code
+@import './atom-one-dark.css';
